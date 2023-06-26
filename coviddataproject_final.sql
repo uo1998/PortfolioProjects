@@ -1,5 +1,6 @@
 
 -- Skills used in this project: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Creating Subqueries, Converting Data Types
+-- Inputed Code in: MySql
 
 SELECT *
 FROM covidcasestudy.coviddeaths_casestudy
